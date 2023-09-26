@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Geethika",
+      "age": 5
+    },
+    {
+      "id": "2",
+      "name": "rx100",
+      "age": "22"
+    },
+    {
+      "id": "3",
+      "name": "dolo",
+      "age": "22"
+    },
+    {
+      "id": "4",
+      "name": "tata",
+      "age": "22"
+    },
+    {
+      "id": "5",
+      "name": "Aira",
+      "age": "22"
+    }
+  ]
+}
